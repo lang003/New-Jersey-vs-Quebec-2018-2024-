@@ -16,3 +16,5 @@ Tableau BI only required a single pivot.
 INDEX and INPUT–PUT functions were used for data formatting and validation.
 
 Final: Quebecs death rate is higher than its birth 
+
+https://public.tableau.com/app/profile/lan.ge1988/viz/NewJerseyvsQuebec/Dashboard2
